@@ -1,6 +1,6 @@
 <?php 
-
-try { $db=new 	PDO("mysql:host=sql206.byetcluster.com;dbname=epiz_27847765_eticaret;charset=utf8",'epiz_27847765','t93pAU4hW3');
+//Bağlantı Korunması İçin Bilgiler Silindi
+try { $db=new 	PDO("mysql:host=******;dbname=**********;charset=utf8",'******','********');
 
 	
 } catch (Exception $e) {
